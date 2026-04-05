@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables / secret keys
+.env
+backend/config/serviceAccountKey.json
+lib/config.dart
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / dist folders
+dist/
+build/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
